@@ -1,6 +1,12 @@
 ### Oiii 👋
 
 Eu sou a Priscila Sartori, formada em Ciências Econômicas, atualmente descobrindo os caminhos da programação, cada dia mais apaixonada pelo desenvolvimento de software.
+Além de Tecnologia, tenho interesses e hobbies como:
+- Finanças
+- Mercado Financeiro e Bolsa de Valores
+- Livros sobre Autoajuda, Romances e Evangélicos.
+- Jogos de Quebra-cabeça e Estratégia.
+- Séries e Doramas.
 
 <div align="center">
    <img height="380em" src="https://tm.ibxk.com.br/2021/03/25/25173347450360.jpg?ims=1120x420"/>
