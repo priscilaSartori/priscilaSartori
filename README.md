@@ -16,8 +16,8 @@ Além de Tecnologia, tenho interesses e hobbies como:
 ## GitHub Stats
 <div align="center">
   <a href="https://github.com/priscilaSartori">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=priscilaSartori&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilaSartori&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=priscilaSartori&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=priscilaSartori&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 
