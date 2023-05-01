@@ -44,3 +44,5 @@ Além de Tecnologia, tenho interesses e hobbies como:
    ![Snake animation](https://github.com/priscilaSartori/priscilaSartori/blob/output/github-contribution-grid-snake.svg)
   
   </div>
+   
+   ![Profile View Counter](https://komarev.com/ghpvc/?username=priscilaSartori)
