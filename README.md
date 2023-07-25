@@ -161,8 +161,74 @@ Além de Tecnologia, tenho interesses e hobbies como:
   <a href="https://www.linkedin.com/in/priscila-sartori" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:priscilasartori2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-   ![Snake animation](https://github.com/priscilaSartori/priscilaSartori/blob/output/github-contribution-grid-snake.svg)
-  
+ <!-- ![snake gif](https://github.com/priscilaSartori/priscilaSartori/blob/output/github-contribution-grid-snake.svg)-->
   </div>
-   
-   ![Profile View Counter](https://komarev.com/ghpvc/?username=priscilaSartori)
+
+## Repositórios
+<table>
+   <tbody>
+      <td>
+         ### Fundamentos
+         <div>
+            <ul>
+               <li><a href="https://github.com/priscilaSartori/project-lessons-learned">Projeto lessons-learned</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-zoo-functions-project">Projeto zoo-functions</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-playground-functions">Projeto playground-functions</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-js-unit-tests">Projeto Testes unitários</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-trybewarts">Projeto trybewarts</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-pixels-art">Projeto pixels-art</a></li>
+            </ul>
+         </div>
+         ### Full
+         <div>
+            <ul>
+               <li><a href="https://github.com/priscilaSartori/project-moments">Projeto Moments</a></li>
+               <li><a href="https://github.com/priscilaSartori/dashboard-fullstack-angular-express">Projeto dashboard</a></li>     
+            </ul>
+         </div>
+         ### Ciência de Dados
+         <div>
+            <ul>
+               <li><a href="https://github.com/priscilaSartori/project-algorithms">Projeto algorithms</a></li>
+            </ul>
+         </div>
+      </td>
+      <td>
+         ### FrontEnd
+         <div>
+            <ul>
+               <li><a href="https://github.com/priscilaSartori/project-todo-list">Projeto todo-list</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-shopping-cart">Projeto shopping-cart</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-solar-system">Projeto solar-system</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-tryunfo">Projeto tryunfo</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-trybetunes">Projeto trybetunes</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-frontend-online-store">Projeto frontend-online-store</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-react-testing-library">Projeto react-testing-library</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-trybewallet">Projeto trybewallet</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-trivia">Projeto trivia</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-starwars">Projeto starwars</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-codante-tela-login-tailwind">Projeto tela-login</a></li>     
+            </ul>
+         </div> 
+      </td>
+      <td>
+         ### Backend
+         <div>
+            <ul>
+               <li><a href="https://github.com/priscilaSartori/project-car-shop">Projeto car-shop</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-mongodb-commerce">Projeto commerce</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-trybers-and-dragons">Projeto trybers-and-dragons</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-trybesmith">Projeto trybesmith</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-blogs-api">Projeto blogs-api</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-store-manager">Projeto store-manager</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-talker-manager">Projeto talker-manager</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-mysql-one-for-all">Projeto mysql-one-for-all</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-mysql-all-for-one">Projeto mysql-all-for-one</a></li>
+               <li><a href="https://github.com/priscilaSartori/project-docker-todo-list">Projeto docker-todo-list</a></li>
+            </ul>
+         </div>
+      </td>
+   </tbody>
+</table>
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=priscilaSartori)
