@@ -228,6 +228,16 @@ Além de Tecnologia, tenho interesses e hobbies como:
             </ul>
          </div>
       </td>
+      <td>
+         ### Cursos
+         <div>
+            <ul>
+               <li><a href="https://github.com/priscilaSartori/curso-adonis-api">Adonis</a></li>
+               <li><a href="https://github.com/priscilaSartori/curso-angular">Angular</a></li>
+               <li><a href="https://github.com/priscilaSartori/acelera-tryber-back">Acelera BackEnd</a></li>
+            </ul>
+         </div>
+      </td>
    </tbody>
 </table>
 
